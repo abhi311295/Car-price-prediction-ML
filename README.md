@@ -11,12 +11,7 @@ To build regression methodology to predict the price of the used car.
 
 ## Life cycle of the project
 
-1.Data scraping
-
-2.Data cleaning
-
-3.Data preparation
-
-4.Model creation
-
-5.Model building and evaluation
+- Data scraping
+- Data cleaning
+- Data preparation
+- Model building and evaluation
