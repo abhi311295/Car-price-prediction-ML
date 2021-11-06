@@ -1,6 +1,6 @@
 # Car-price-prediction-ML
 
-## Primary Objetive 
+## Primary Objetive:
 
 To build regression methodology to predict the price of the used car. 
 
